@@ -1,0 +1,4 @@
+ghcup-hs-bin
+protonvpn-cli
+spotify
+yay-git
